@@ -1,4 +1,4 @@
-![logo](https://www.tekshapers.com/uploads/blog_image/15362384091533896513blog-sco2.jpg)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwoHmWHcIg3pKXRBk63T9Jt8G7Qp9JazYxRw&s)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer specializing in MEAN/MERN Stack, dedicated to crafting seamless web experiences. Proficient in Node.js, MongoDB, Express.js, Angular, and React.js Serverless and AWS, I strive to deliver high-quality solutions tailored to user needs</h3>
 
