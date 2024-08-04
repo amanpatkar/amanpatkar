@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatkar&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatkar" alt="amanpatkar" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=amanpatkar" alt="amanpatkar" /> </p>
 - 🔭 I’m currently working on Web Development technologies like HTML, CSS, JavaScript, Angular, React, Node.js, Express.js etc
 
 - 🌱 I’m currently learning more about architecture and exploring advanced techniques to enhance user experiences *React.js, Next.js, Express.js, Node.js*
@@ -21,6 +21,7 @@
 
 - ⚡ Fun fact *I can code as smoothly as I can juggle three oranges*
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aman-kumar-530a9b160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-kumar-530a9b160" height="30" width="40" /></a>
 </p>
