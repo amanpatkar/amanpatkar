@@ -1,4 +1,4 @@
-![logo](https://f.hubspotusercontent10.net/hubfs/6448316/web-programming-languages.jpg)
+![logo](https://www.tekshapers.com/uploads/blog_image/15362384091533896513blog-sco2.jpg)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer specializing in MEAN/MERN Stack, dedicated to crafting seamless web experiences. Proficient in Node.js, MongoDB, Express.js, Angular, and React.js Serverless and AWS, I strive to deliver high-quality solutions tailored to user needs</h3>
 
