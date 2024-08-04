@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatkar&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatkar" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=amanpatkar" alt="amanpatkar" /> </p>
 - 🔭 I’m currently working on Web Development technologies like HTML, CSS, JavaScript, Angular, React, Node.js, Express.js etc
 
 - 🌱 I’m currently learning more about architecture and exploring advanced techniques to enhance user experiences *React.js, Next.js, Express.js, Node.js*
@@ -15,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-c642e.web.app/skills]
 
-- 💬 Ask me about *MEAN/ MERN Stack (MongoDB, Express, Angular/React, Node)*
+- 💬 Ask me about *MEAN/ MERN Stack (MongoDB, Express, Angular/React, Node.js)*
 
 - 📫 How to reach me *amanpatkar123456@gamil.com*
 
